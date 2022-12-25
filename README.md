@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankur @akuscifi
 - 👀 I’m interested in interesting tech opportunities 
-- 🌱 I’m currently learning IT modernization
+- 🌱 I’m currently working on Legacy modernization
 - 💞️ I’m looking to collaborate on innovative ideas
 - 📫 How to reach me - [LinkedIN](https://www.linkedin.com/in/akuscifi007/)
 
